@@ -1,0 +1,8 @@
+site_name: "kaparwan"
+site_description: "kaparwan"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core

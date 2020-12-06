@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "kaparwan"
+  description: "kaparwan"
+  annotations:
+    github.com/project-slug: "kaparwan/msx"
+    backstage.io/techdocs-ref: github:https://github.com/kaparwan/msx
+spec:
+  type: service
+  lifecycle: experimental
+  owner: "kaparwan"
